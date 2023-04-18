@@ -43,7 +43,7 @@ type: Opaque
 
 ### Installation
 ```
-go get github.com/fxposter/kubectl-ksd
+go install github.com/fxposter/kubectl-ksd@latest
 ```
 
 ### Usage
