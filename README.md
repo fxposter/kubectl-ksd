@@ -1,5 +1,8 @@
 # Kubernetes Secret Decode
 
+It is just a fork of https://github.com/ashleyschuett/kubernetes-secret-decode, which uses go modules and allows easy
+installation via `go install github.com/fxposter/kubectl-ksd@latest`.
+
 ### Description
 Be able to easily see the values of a secret.
 
